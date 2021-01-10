@@ -1,0 +1,14 @@
+future 
+discord
+aiohttp
+re
+traceback
+re
+colorama 
+sys
+requests
+datetime
+youtube_dl
+urllib
+shutil
+pypresence 
